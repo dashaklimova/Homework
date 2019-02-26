@@ -1,0 +1,17 @@
+1. //span[text()='Мой Мир'] - Кнопка "мой мир"
+2. //i[text()='Все проекты'] - Кнопка "Все проекты"
+3. //span[@id='cal'] - календарь
+4. //input[@id='mailbox:login'] - поле логин
+5. //input[@id='mailbox:saveauth'] - галочка "Запомнить"
+6. //label[@class='search__icon'] - лупа
+7. //a[text()='Картинки'] - кнопка "Картинки"
+8. //div[@class='tabs']/a[text()='Леди']
+   //a[@class='tabs__item js-click' and text()='Леди'] - вкладка "Леди"
+9. //div[@id='tabs:dropdown-container'] - Кнопка "..."
+10. //input[@id='search:submit'] - Кнопка "Найти"
+11. //a[@class='news-item__label i-color-black i-inline' and text()='Спорт']- Кнопка "Спорт" внизу
+12. //div[@class='tgb__body__content news-item__content o-media__content'] - реклама
+13. //i[@class='rate__icon rate__icon_usd o-media__img'] - Кнопка "Курсы валют"
+14. //a[@class='footer__item i-color-warm-grey'][1] - Ссылка "О компании"
+15. //a[@name='clb660354'] - скачать приложение
+16. //a[text()='Облако'] - первая ссылка под ящиком
