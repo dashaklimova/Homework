@@ -1,0 +1,16 @@
+a {
+    font: bold 30px Arial;
+    text-decoration: none;
+    background-color: #f1d9cc;
+    color: #b48dcc;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #6a5684;
+    border-right: 1px solid #4c254c;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #564158;
+    border-radius: 10px;
+}
+audio {
+box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+transform: scale(1.05);
+}
