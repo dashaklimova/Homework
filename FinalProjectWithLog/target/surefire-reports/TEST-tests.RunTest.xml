@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.RunTest" time="5.834" tests="54" errors="2" skipped="1" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\MyWorkspace\FinalProjectWithLog"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\MyWorkspace\FinalProjectWithLog"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Home\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Program Files\maven\apache-maven-3.6.0\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_201\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Git\cmd;d:\JAVA training Dasha\JavaLibs\chromedriver_win32;C:\Program Files\maven\apache-maven-3.6.0\bin;C:\Users\Home\AppData\Local\Programs\Fiddler;."/>
+    <property name="maven.conf" value="C:\Program Files\maven\apache-maven-3.6.0\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="library.jansi.path" value="C:\Program Files\maven\apache-maven-3.6.0\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Home"/>
+    <property name="user.timezone" value="Europe/Kaliningrad"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="user.name" value="Home"/>
+    <property name="java.class.path" value="C:\Program Files\maven\apache-maven-3.6.0\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_201\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="ru"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp866"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\maven\apache-maven-3.6.0\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp866"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking login with correct data" time="0.132"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking login with correct data" time="0.002"/>
+  <testcase name="Then I see login is succesfull" classname="Scenario: Checking login with correct data" time="0"/>
+  <testcase name="Scenario: Checking login with correct data" classname="Scenario: Checking login with correct data" time="0.813"/>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking sent message several users" time="0.012"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking sent message several users" time="0.009"/>
+  <testcase name="And I send a message to several users" classname="Scenario: Checking sent message several users" time="0.011"/>
+  <testcase name="Then I see message is sent" classname="Scenario: Checking sent message several users" time="0"/>
+  <testcase name="Scenario: Checking sent message several users" classname="Scenario: Checking sent message several users" time="0.657"/>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking basket cleansing" time="0.001"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking basket cleansing" time="0.004"/>
+  <testcase name="And I delete message" classname="Scenario: Checking basket cleansing" time="0.001"/>
+  <testcase name="Then I see that message is deleted" classname="Scenario: Checking basket cleansing" time="0"/>
+  <testcase name="Scenario: Checking basket cleansing" classname="Scenario: Checking basket cleansing" time="0.652"/>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking message move to spam" time="0.001"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking message move to spam" time="0.002"/>
+  <testcase name="And I move message to spam" classname="Scenario: Checking message move to spam" time="0"/>
+  <testcase name="Then I see that message is in spam" classname="Scenario: Checking message move to spam" time="0"/>
+  <testcase name="Scenario: Checking message move to spam" classname="Scenario: Checking message move to spam" time="0.648"/>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking spam message is deleted" time="0.001"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking spam message is deleted" time="0.003"/>
+  <testcase name="And I move message to spam" classname="Scenario: Checking spam message is deleted" time="0"/>
+  <testcase name="And I clean spam folder" classname="Scenario: Checking spam message is deleted" time="0"/>
+  <testcase name="Then I see spam folder is clean" classname="Scenario: Checking spam message is deleted" time="0"/>
+  <testcase name="Scenario: Checking spam message is deleted" classname="Scenario: Checking spam message is deleted" time="0.642"/>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking message move to spam and back" time="0.003"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking message move to spam and back" time="0.007"/>
+  <testcase name="And I move message to spam" classname="Scenario: Checking message move to spam and back" time="0"/>
+  <testcase name="Then I see message move back from spam" classname="Scenario: Checking message move to spam and back" time="0.001"/>
+  <testcase name="Scenario: Checking message move to spam and back" classname="Scenario: Checking message move to spam and back" time="0.638"/>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking messages are flagged" time="0.001"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking messages are flagged" time="0.001"/>
+  <testcase name="And I mark several messages by flag" classname="Scenario: Checking messages are flagged" time="0.032">
+    <error message="unknown error: Element &lt;div data-bem=&quot;b-flag&quot; data-id=&quot;1:a41e2f957587b984:0&quot; data-act=&quot;flag&quot; class=&quot;js-hover b-flag b-flag_onhover&quot; title=&quot;Пометить флажком&quot;&gt;...&lt;/div&gt; is not clickable at point (549, 230). Other element would receive the click: &lt;span class=&quot;js-title-text&quot;&gt;...&lt;/span&gt;&#10;  (Session info: chrome=73.0.3683.86)&#10;  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;ASUS&apos;, ip: &apos;192.168.0.104&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_201&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Home\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58775}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}&#10;Session ID: 65a45e87fb9a70e5fda4569963773875" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: unknown error: Element <div data-bem="b-flag" data-id="1:a41e2f957587b984:0" data-act="flag" class="js-hover b-flag b-flag_onhover" title="Пометить флажком">...</div> is not clickable at point (549, 230). Other element would receive the click: <span class="js-title-text">...</span>
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS', ip: '192.168.0.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Home\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58775}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 65a45e87fb9a70e5fda4569963773875
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at pages.MessagePage.chooseSeveralMessagesFlags(MessagePage.java:90)
+	at tests.MailSteps.markSeveralMessagesByFlag(MailSteps.java:160)
+	at ?.And I mark several messages by flag(Mail.feature:42)
+]]></error>
+    <system-out>2019-04-04 00:57:43 INFO  MailSteps:159 - mark several messages by flag
+</system-out>
+  </testcase>
+  <testcase name="Scenario: Checking messages are flagged" classname="Scenario: Checking messages are flagged" time="0.032">
+    <error message="unknown error: Element &lt;div data-bem=&quot;b-flag&quot; data-id=&quot;1:a41e2f957587b984:0&quot; data-act=&quot;flag&quot; class=&quot;js-hover b-flag b-flag_onhover&quot; title=&quot;Пометить флажком&quot;&gt;...&lt;/div&gt; is not clickable at point (549, 230). Other element would receive the click: &lt;span class=&quot;js-title-text&quot;&gt;...&lt;/span&gt;&#10;  (Session info: chrome=73.0.3683.86)&#10;  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;ASUS&apos;, ip: &apos;192.168.0.104&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_201&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Home\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58775}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}&#10;Session ID: 65a45e87fb9a70e5fda4569963773875" type="org.openqa.selenium.WebDriverException"><![CDATA[org.openqa.selenium.WebDriverException: unknown error: Element <div data-bem="b-flag" data-id="1:a41e2f957587b984:0" data-act="flag" class="js-hover b-flag b-flag_onhover" title="Пометить флажком">...</div> is not clickable at point (549, 230). Other element would receive the click: <span class="js-title-text">...</span>
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS', ip: '192.168.0.104', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 72.0.3626.69 (3c16f8a135abc..., userDataDir: C:\Users\Home\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58775}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 65a45e87fb9a70e5fda4569963773875
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at pages.MessagePage.chooseSeveralMessagesFlags(MessagePage.java:90)
+	at tests.MailSteps.markSeveralMessagesByFlag(MailSteps.java:160)
+	at ?.And I mark several messages by flag(Mail.feature:42)
+]]></error>
+  </testcase>
+  <testcase name="Then I see messages with flags in folder" classname="Scenario: Checking messages are flagged" time="0.033">
+    <skipped/>
+  </testcase>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking files field" time="0.005"/>
+  <testcase name="When I login with correct data" classname="Scenario: Checking files field" time="0.001"/>
+  <testcase name="And I click on folder field" classname="Scenario: Checking files field" time="0"/>
+  <testcase name="Then I see message about folder field" classname="Scenario: Checking files field" time="0"/>
+  <testcase name="Scenario: Checking files field" classname="Scenario: Checking files field" time="0.634"/>
+  <testcase name="Given I am on home mail.ru page" classname="Scenario: Checking presence of icons" time="0.001"/>
+  <testcase name="Then I see that field with icons is displayed" classname="Scenario: Checking presence of icons" time="0"/>
+  <testcase name="Scenario: Checking presence of icons" classname="Scenario: Checking presence of icons" time="0.652"/>
+  <testcase name="When I post message" classname="Scenario: Checking post message" time="0.015"/>
+  <testcase name="Then I see message is posted" classname="Scenario: Checking post message" time="0"/>
+  <testcase name="Scenario: Checking post message" classname="Scenario: Checking post message" time="0.062"/>
+  <testcase name="When I post message" classname="Scenario: Checking edit message" time="0"/>
+  <testcase name="And I edit message" classname="Scenario: Checking edit message" time="0"/>
+  <testcase name="Then I see message is edited" classname="Scenario: Checking edit message" time="0"/>
+  <testcase name="Scenario: Checking edit message" classname="Scenario: Checking edit message" time="0.078"/>
+  <testcase name="When I post message" classname="Scenario: Checking delete message" time="0"/>
+  <testcase name="And I delete post" classname="Scenario: Checking delete message" time="0"/>
+  <testcase name="Then I see post is deleted" classname="Scenario: Checking delete message" time="0"/>
+  <testcase name="Scenario: Checking delete message" classname="Scenario: Checking delete message" time="0.047"/>
+</testsuite>

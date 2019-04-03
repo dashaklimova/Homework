@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554332096715" stop="1554332293990" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Checking login with correct data</name>
+    <test-cases>
+        <test-case start="1554332109632" stop="1554332109636" status="passed">
+            <name>Given I am on home mail.ru page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332109632" stop="1554332109636" status="passed">
+            <name>Given I am on home mail.ru page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332117853" stop="1554332117853" status="passed">
+            <name>When I login with correct data</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332118773" stop="1554332118773" status="passed">
+            <name>Then I see login is succesfull</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

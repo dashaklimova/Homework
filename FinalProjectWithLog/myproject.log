@@ -1,0 +1,315 @@
+16:54:18,741  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:54:32,111  INFO main MailSteps:loginIsSuccesfull:63 - Login is succesful
+16:54:41,984  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:54:58,384  INFO main MailSteps:messageIsSent:70 - message is sent
+16:55:06,878  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:55:37,865  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:55:59,922  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:56:25,417  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:56:50,180  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:57:12,190  INFO main MailSteps:loadMailPage:49 - Login is succesful
+16:57:26,559  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:10:38,418  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:10:46,005  INFO main MailSteps:loginIsSuccesfull:63 - Login is succesful
+17:10:55,284  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:12:20,016  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:13:03,392  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:13:10,397  INFO main MailSteps:loginIsSuccesfull:63 - Login is succesful
+17:13:18,598  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:14:25,440  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:14:37,867  INFO main MailSteps:loginIsSuccesfull:63 - Login is succesful
+17:14:46,653  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:15:03,299  INFO main MailSteps:messageIsSent:70 - message is sent
+17:15:14,050  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:15:40,337  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:16:03,787  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:16:31,298  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:16:56,218  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:17:23,145  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:17:37,834  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:57:07,726  INFO main MailSteps:loadMailPage:49 - Login is succesful
+17:57:14,436  INFO main MailSteps:loginIsSuccesfull:63 - Login is succesful
+17:57:22,077  INFO main MailSteps:loadMailPage:49 - Login is succesful
+18:07:03,147  INFO main MailSteps:loadMailPage:54 - login
+18:07:17,561  INFO main MailSteps:loadMailPage:54 - login
+18:13:24,629  INFO main MailSteps:loadMailPage:54 - login
+18:14:24,500  INFO main MailSteps:loadMailPage:54 - login
+18:14:33,092  INFO main MailSteps:sendMessageToSeveralUsers:82 - send a message to several users
+18:14:40,496  INFO main MailSteps:messageIsSent:75 - message is sent
+18:15:17,828  INFO main MailSteps:loadMailPage:54 - login
+18:15:30,132  INFO main MailSteps:moveMessageToSpam:113 - move message to spam
+18:16:46,849  INFO main MailSteps:loadMailPage:54 - login
+18:17:01,610  INFO main MailSteps:loadMailPage:54 - login
+18:17:07,841  INFO main MailSteps:sendMessageToSeveralUsers:82 - send a message to several users
+18:17:14,080  INFO main MailSteps:messageIsSent:75 - message is sent
+18:17:22,842  INFO main MailSteps:loadMailPage:54 - login
+18:17:28,991  INFO main MailSteps:deleteMessage:95 - delete message
+18:17:49,259  INFO main MailSteps:loadMailPage:54 - login
+18:17:55,842  INFO main MailSteps:moveMessageToSpam:113 - move message to spam
+18:18:11,562  INFO main MailSteps:loadMailPage:54 - login
+18:18:20,365  INFO main MailSteps:moveMessageToSpam:113 - move message to spam
+18:18:27,797  INFO main MailSteps:cleanSpamFolder:129 - clean spam folder
+18:18:42,110  INFO main MailSteps:loadMailPage:54 - login
+18:18:49,863  INFO main MailSteps:moveMessageToSpam:113 - move message to spam
+18:19:10,790  INFO main MailSteps:loadMailPage:54 - login
+18:19:17,452  INFO main MailSteps:markSeveralMessagesByFlag:151 - mark several messages by flag
+18:19:34,965  INFO main MailSteps:loadMailPage:54 - login
+18:19:41,794  INFO main MailSteps:clickOnFolderField:165 - click on folder field
+18:19:50,612  INFO main MailSteps:loadMailPage:54 - login
+18:20:56,537  INFO main MailSteps:loadMailPage:54 - login
+18:21:17,523  INFO main MailSteps:loadMailPage:54 - login
+18:34:43,795  INFO main MailSteps:loadMailPage:63 - login
+18:35:05,521  INFO main MailSteps:loadMailPage:63 - login
+18:35:13,364  INFO main MailSteps:sendMessageToSeveralUsers:89 - send a message to several users
+18:35:23,065  INFO main MailSteps:messageIsSent:82 - message is sent
+18:35:30,163  INFO main MailSteps:loadMailPage:63 - login
+18:35:38,534  INFO main MailSteps:deleteMessage:103 - delete message
+18:36:01,233  INFO main MailSteps:loadMailPage:63 - login
+18:36:09,594  INFO main MailSteps:moveMessageToSpam:122 - move message to spam
+18:36:26,802  INFO main MailSteps:loadMailPage:63 - login
+18:39:15,588  INFO main MailSteps:loadMailPage:69 - login
+18:39:36,292  INFO main MailSteps:loadMailPage:69 - login
+18:39:43,791  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+18:39:53,671  INFO main MailSteps:messageIsSent:88 - message is sent
+18:40:02,516  INFO main MailSteps:loadMailPage:69 - login
+18:40:10,127  INFO main MailSteps:deleteMessage:109 - delete message
+18:40:35,121  INFO main MailSteps:loadMailPage:69 - login
+18:46:55,434  INFO main MailSteps:loadMailPage:69 - login
+18:47:10,021  INFO main MailSteps:loadMailPage:69 - login
+18:47:18,282  INFO main MailSteps:sendMessageToSeveralUsers:94 - send a message to several users
+18:47:25,515  INFO main MailSteps:messageIsSent:88 - message is sent
+18:47:32,529  INFO main MailSteps:loadMailPage:69 - login
+18:47:40,639  INFO main MailSteps:deleteMessage:108 - delete message
+18:47:57,602  INFO main MailSteps:loadMailPage:69 - login
+18:48:04,818  INFO main MailSteps:moveMessageToSpam:128 - move message to spam
+18:48:18,922  INFO main MailSteps:loadMailPage:69 - login
+18:48:26,788  INFO main MailSteps:moveMessageToSpam:128 - move message to spam
+18:48:32,738  INFO main MailSteps:cleanSpamFolder:145 - clean spam folder
+18:48:43,456  INFO main MailSteps:loadMailPage:69 - login
+18:48:50,525  INFO main MailSteps:moveMessageToSpam:128 - move message to spam
+18:49:10,170  INFO main MailSteps:loadMailPage:69 - login
+18:49:17,982  INFO main MailSteps:markSeveralMessagesByFlag:168 - mark several messages by flag
+18:49:27,219  INFO main MailSteps:loadMailPage:69 - login
+18:49:34,729  INFO main MailSteps:clickOnFolderField:183 - click on folder field
+18:49:44,200  INFO main MailSteps:loadMailPage:69 - login
+19:05:04,520  INFO main MailSteps:loadMailPage:69 - login
+19:05:11,838  INFO main MailSteps:markSeveralMessagesByFlag:168 - mark several messages by flag
+20:21:16,188  INFO main MailSteps:loadMailPage:69 - login
+20:21:36,169  INFO main MailSteps:loadMailPage:69 - login
+20:21:44,363  INFO main MailSteps:sendMessageToSeveralUsers:94 - send a message to several users
+20:21:51,959  INFO main MailSteps:messageIsSent:88 - message is sent
+20:22:00,001  INFO main MailSteps:loadMailPage:69 - login
+20:22:07,862  INFO main MailSteps:deleteMessage:108 - delete message
+20:22:29,020  INFO main MailSteps:loadMailPage:69 - login
+20:22:36,550  INFO main MailSteps:moveMessageToSpam:128 - move message to spam
+20:22:57,092  INFO main MailSteps:loadMailPage:69 - login
+20:23:04,895  INFO main MailSteps:moveMessageToSpam:128 - move message to spam
+20:23:12,119  INFO main MailSteps:cleanSpamFolder:145 - clean spam folder
+20:23:26,897  INFO main MailSteps:loadMailPage:69 - login
+20:23:35,748  INFO main MailSteps:moveMessageToSpam:128 - move message to spam
+20:23:51,160  INFO main MailSteps:loadMailPage:69 - login
+20:23:58,526  INFO main MailSteps:markSeveralMessagesByFlag:168 - mark several messages by flag
+20:24:06,274  INFO main MailSteps:loadMailPage:69 - login
+20:24:14,716  INFO main MailSteps:clickOnFolderField:183 - click on folder field
+20:24:26,793  INFO main MailSteps:loadMailPage:69 - login
+20:31:09,868  INFO main MailSteps:loadMailPage:69 - login
+21:00:07,090  INFO main MailSteps:loadMailPage:69 - login
+21:00:24,026  INFO main MailSteps:loadMailPage:69 - login
+21:00:31,553  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+21:00:41,197  INFO main MailSteps:messageIsSent:89 - message is sent
+21:00:48,515  INFO main MailSteps:loadMailPage:69 - login
+21:00:56,829  INFO main MailSteps:deleteMessage:109 - delete message
+21:01:15,998  INFO main MailSteps:loadMailPage:69 - login
+21:01:24,303  INFO main MailSteps:moveMessageToSpam:130 - move message to spam
+21:01:39,365  INFO main MailSteps:loadMailPage:69 - login
+21:01:46,957  INFO main MailSteps:moveMessageToSpam:130 - move message to spam
+21:01:53,593  INFO main MailSteps:cleanSpamFolder:148 - clean spam folder
+21:02:08,832  INFO main MailSteps:loadMailPage:69 - login
+21:02:15,882  INFO main MailSteps:moveMessageToSpam:130 - move message to spam
+21:02:37,820  INFO main MailSteps:loadMailPage:69 - login
+21:02:46,211  INFO main MailSteps:markSeveralMessagesByFlag:173 - mark several messages by flag
+21:03:07,128  INFO main MailSteps:loadMailPage:69 - login
+21:03:15,003  INFO main MailSteps:clickOnFolderField:189 - click on folder field
+21:03:25,233  INFO main MailSteps:loadMailPage:69 - login
+23:05:19,529  INFO main MailSteps:loadMailPage:69 - login
+23:05:48,112  INFO main MailSteps:loadMailPage:69 - login
+23:06:05,617  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+23:06:24,240  INFO main MailSteps:loadMailPage:69 - login
+23:06:34,149  INFO main MailSteps:deleteMessage:109 - delete message
+23:06:56,439  INFO main MailSteps:loadMailPage:69 - login
+23:07:03,200  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:07:17,095  INFO main MailSteps:loadMailPage:69 - login
+23:07:23,616  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:07:30,923  INFO main MailSteps:cleanSpamFolder:146 - clean spam folder
+23:07:43,918  INFO main MailSteps:loadMailPage:69 - login
+23:07:51,036  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:08:08,128  INFO main MailSteps:loadMailPage:69 - login
+23:08:14,932  INFO main MailSteps:markSeveralMessagesByFlag:169 - mark several messages by flag
+23:08:31,866  INFO main MailSteps:loadMailPage:69 - login
+23:08:39,075  INFO main MailSteps:clickOnFolderField:184 - click on folder field
+23:08:48,426  INFO main MailSteps:loadMailPage:69 - login
+00:40:13,633  INFO main MailSteps:loadMailPage:69 - login
+00:41:00,083  INFO main MailSteps:loadMailPage:69 - login
+00:41:11,435  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+00:41:21,140  INFO main MailSteps:messageIsSent:89 - message is sent
+00:41:28,943  INFO main MailSteps:loadMailPage:69 - login
+00:41:36,377  INFO main MailSteps:deleteMessage:109 - delete message
+00:42:00,338  INFO main MailSteps:loadMailPage:69 - login
+00:42:10,679  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:44:00,016  INFO main MailSteps:loadMailPage:69 - login
+00:44:17,787  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:44:25,967  INFO main MailSteps:cleanSpamFolder:146 - clean spam folder
+00:44:45,730  INFO main MailSteps:loadMailPage:69 - login
+00:44:57,791  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:45:52,591  INFO main MailSteps:loadMailPage:69 - login
+00:46:03,887  INFO main MailSteps:markSeveralMessagesByFlag:169 - mark several messages by flag
+00:46:39,612  INFO main MailSteps:loadMailPage:69 - login
+00:46:48,920  INFO main MailSteps:clickOnFolderField:184 - click on folder field
+00:47:01,287  INFO main MailSteps:loadMailPage:69 - login
+00:54:56,986  INFO main MailSteps:loadMailPage:69 - login
+00:55:26,933  INFO main MailSteps:loadMailPage:69 - login
+00:55:39,201  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+00:55:52,525  INFO main MailSteps:messageIsSent:89 - message is sent
+00:56:01,382  INFO main MailSteps:loadMailPage:69 - login
+00:56:10,511  INFO main MailSteps:deleteMessage:109 - delete message
+00:56:37,925  INFO main MailSteps:loadMailPage:69 - login
+00:56:49,259  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:57:10,437  INFO main MailSteps:loadMailPage:69 - login
+00:57:19,119  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:57:28,869  INFO main MailSteps:cleanSpamFolder:146 - clean spam folder
+00:57:45,149  INFO main MailSteps:loadMailPage:69 - login
+00:57:58,722  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:59:28,173  INFO main MailSteps:loadMailPage:69 - login
+00:59:42,251  INFO main MailSteps:markSeveralMessagesByFlag:169 - mark several messages by flag
+00:59:54,357  INFO main MailSteps:loadMailPage:69 - login
+01:00:04,337  INFO main MailSteps:clickOnFolderField:184 - click on folder field
+01:00:16,851  INFO main MailSteps:loadMailPage:69 - login
+22:59:14,688  INFO main MailSteps:loadMailPage:69 - login
+22:59:50,257  INFO main MailSteps:loadMailPage:69 - login
+23:00:02,041  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+23:00:18,121  INFO main MailSteps:messageIsSent:89 - message is sent
+23:00:28,289  INFO main MailSteps:loadMailPage:69 - login
+23:00:39,333  INFO main MailSteps:deleteMessage:109 - delete message
+23:01:12,992  INFO main MailSteps:loadMailPage:69 - login
+23:01:23,998  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:01:48,462  INFO main MailSteps:loadMailPage:69 - login
+23:02:00,208  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:02:11,669  INFO main MailSteps:cleanSpamFolder:146 - clean spam folder
+23:02:30,495  INFO main MailSteps:loadMailPage:69 - login
+23:02:40,261  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:03:06,753  INFO main MailSteps:loadMailPage:69 - login
+23:03:14,269  INFO main MailSteps:markSeveralMessagesByFlag:169 - mark several messages by flag
+23:03:26,514  INFO main MailSteps:loadMailPage:69 - login
+23:03:37,281  INFO main MailSteps:clickOnFolderField:184 - click on folder field
+23:03:49,588  INFO main MailSteps:loadMailPage:69 - login
+23:18:49,423  INFO main MailSteps:loadMailPage:69 - login
+23:19:09,712  INFO main MailSteps:loadMailPage:69 - login
+23:19:21,602  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+23:19:34,238  INFO main MailSteps:messageIsSent:89 - message is sent
+23:19:43,152  INFO main MailSteps:loadMailPage:69 - login
+23:19:52,578  INFO main MailSteps:deleteMessage:109 - delete message
+23:20:23,255  INFO main MailSteps:loadMailPage:69 - login
+23:20:30,602  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:20:49,315  INFO main MailSteps:loadMailPage:69 - login
+23:20:59,049  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:21:13,115  INFO main MailSteps:cleanSpamFolder:146 - clean spam folder
+23:21:32,761  INFO main MailSteps:loadMailPage:69 - login
+23:21:41,812  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:22:13,172  INFO main MailSteps:loadMailPage:69 - login
+23:22:22,524  INFO main MailSteps:markSeveralMessagesByFlag:169 - mark several messages by flag
+23:22:50,908  INFO main MailSteps:loadMailPage:69 - login
+23:23:01,636  INFO main MailSteps:clickOnFolderField:184 - click on folder field
+23:23:12,601  INFO main MailSteps:loadMailPage:69 - login
+23:50:34,111  INFO main MailSteps:loadMailPage:69 - login
+23:51:04,047  INFO main MailSteps:loadMailPage:69 - login
+23:51:12,478  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+23:51:26,184  INFO main MailSteps:messageIsSent:89 - message is sent
+23:51:34,574  INFO main MailSteps:loadMailPage:69 - login
+23:51:43,655  INFO main MailSteps:deleteMessage:109 - delete message
+23:52:04,012  INFO main MailSteps:loadMailPage:69 - login
+23:52:10,925  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:52:27,939  INFO main MailSteps:loadMailPage:69 - login
+23:52:36,310  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:52:45,075  INFO main MailSteps:cleanSpamFolder:146 - clean spam folder
+23:52:58,364  INFO main MailSteps:loadMailPage:69 - login
+23:53:05,332  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+23:53:23,951  INFO main MailSteps:loadMailPage:69 - login
+23:53:32,070  INFO main MailSteps:markSeveralMessagesByFlag:169 - mark several messages by flag
+23:53:39,665  INFO main MailSteps:loadMailPage:69 - login
+23:53:46,328  INFO main MailSteps:clickOnFolderField:184 - click on folder field
+23:53:55,288  INFO main MailSteps:loadMailPage:69 - login
+00:00:05,854  INFO main MailSteps:loadMailPage:69 - login
+00:10:35,412  INFO main MailSteps:loadMailPage:69 - login
+00:13:50,168  INFO main MailSteps:loadMailPage:69 - login
+00:15:48,238  INFO main MailSteps:loadMailPage:69 - login
+00:19:32,036  INFO main MailSteps:loadMailPage:69 - login
+00:27:07,003  INFO main MailSteps:loadMailPage:69 - login
+00:27:30,559  INFO main MailSteps:loadMailPage:69 - login
+00:27:39,671  INFO main MailSteps:sendMessageToSeveralUsers:95 - send a message to several users
+00:27:51,407  INFO main MailSteps:messageIsSent:89 - message is sent
+00:28:00,078  INFO main MailSteps:loadMailPage:69 - login
+00:28:09,419  INFO main MailSteps:deleteMessage:109 - delete message
+00:28:33,070  INFO main MailSteps:loadMailPage:69 - login
+00:28:41,474  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:28:57,560  INFO main MailSteps:loadMailPage:69 - login
+00:29:04,878  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:29:19,364  INFO main MailSteps:loadMailPage:69 - login
+00:29:26,429  INFO main MailSteps:moveMessageToSpam:129 - move message to spam
+00:29:34,041  INFO main MailSteps:loadMailPage:69 - login
+00:29:42,103  INFO main MailSteps:markSeveralMessagesByFlag:169 - mark several messages by flag
+00:29:49,998  INFO main MailSteps:loadMailPage:69 - login
+00:29:57,361  INFO main MailSteps:clickOnFolderField:184 - click on folder field
+00:30:14,825  INFO main MailSteps:loadMailPage:69 - login
+00:40:18,467  INFO main MailSteps:loadMailPage:59 - login
+00:40:37,414  INFO main MailSteps:loadMailPage:59 - login
+00:40:44,385  INFO main MailSteps:sendMessageToSeveralUsers:85 - send a message to several users
+00:40:53,497  INFO main MailSteps:messageIsSent:79 - message is sent
+00:41:00,944  INFO main MailSteps:loadMailPage:59 - login
+00:41:07,975  INFO main MailSteps:deleteMessage:99 - delete message
+00:41:29,689  INFO main MailSteps:loadMailPage:59 - login
+00:41:36,558  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:41:43,918  INFO main MailSteps:loadMailPage:59 - login
+00:41:50,851  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:41:57,513  INFO main MailSteps:loadMailPage:59 - login
+00:42:06,785  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:42:14,131  INFO main MailSteps:loadMailPage:59 - login
+00:42:20,606  INFO main MailSteps:markSeveralMessagesByFlag:159 - mark several messages by flag
+00:42:28,408  INFO main MailSteps:loadMailPage:59 - login
+00:42:35,328  INFO main MailSteps:clickOnFolderField:174 - click on folder field
+00:42:53,586  INFO main MailSteps:loadMailPage:59 - login
+00:47:23,919  INFO main MailSteps:loadMailPage:59 - login
+00:47:40,036  INFO main MailSteps:loadMailPage:59 - login
+00:47:48,330  INFO main MailSteps:sendMessageToSeveralUsers:85 - send a message to several users
+00:47:55,901  INFO main MailSteps:messageIsSent:79 - message is sent
+00:48:04,227  INFO main MailSteps:loadMailPage:59 - login
+00:48:12,371  INFO main MailSteps:deleteMessage:99 - delete message
+00:48:30,982  INFO main MailSteps:loadMailPage:59 - login
+00:48:38,262  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:48:54,398  INFO main MailSteps:loadMailPage:59 - login
+00:49:01,037  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:49:07,429  INFO main MailSteps:cleanSpamFolder:136 - clean spam folder
+00:49:20,977  INFO main MailSteps:loadMailPage:59 - login
+00:49:27,728  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:49:48,149  INFO main MailSteps:loadMailPage:59 - login
+00:49:55,260  INFO main MailSteps:markSeveralMessagesByFlag:159 - mark several messages by flag
+00:50:14,152  INFO main MailSteps:loadMailPage:59 - login
+00:50:22,041  INFO main MailSteps:clickOnFolderField:174 - click on folder field
+00:50:30,599  INFO main MailSteps:loadMailPage:59 - login
+00:55:08,856  INFO main MailSteps:loadMailPage:59 - login
+00:55:26,197  INFO main MailSteps:loadMailPage:59 - login
+00:55:33,050  INFO main MailSteps:sendMessageToSeveralUsers:85 - send a message to several users
+00:55:40,594  INFO main MailSteps:messageIsSent:79 - message is sent
+00:55:48,657  INFO main MailSteps:loadMailPage:59 - login
+00:55:55,311  INFO main MailSteps:deleteMessage:99 - delete message
+00:56:16,602  INFO main MailSteps:loadMailPage:59 - login
+00:56:23,540  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:56:40,014  INFO main MailSteps:loadMailPage:59 - login
+00:56:47,086  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:56:53,816  INFO main MailSteps:cleanSpamFolder:136 - clean spam folder
+00:57:09,474  INFO main MailSteps:loadMailPage:59 - login
+00:57:17,071  INFO main MailSteps:moveMessageToSpam:119 - move message to spam
+00:57:37,684  INFO main MailSteps:loadMailPage:59 - login
+00:57:43,926  INFO main MailSteps:markSeveralMessagesByFlag:159 - mark several messages by flag
+00:57:53,444  INFO main MailSteps:loadMailPage:59 - login
+00:58:00,266  INFO main MailSteps:clickOnFolderField:174 - click on folder field
+00:58:10,018  INFO main MailSteps:loadMailPage:59 - login

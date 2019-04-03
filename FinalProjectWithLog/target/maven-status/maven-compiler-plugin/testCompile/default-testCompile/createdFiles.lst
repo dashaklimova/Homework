@@ -1,0 +1,15 @@
+tests\VKSteps.class
+patterns\EmailBuilder.class
+pages\LoginPage.class
+patterns\Email.class
+helpers\DatabaseHelper.class
+enums\Browser.class
+helpers\ScreenshotTaker.class
+pages\MessagePage.class
+patterns\EmailSender.class
+patterns\DriverFactory.class
+helpers\WallHelper.class
+pages\SendMessagePage.class
+patterns\DriverFactory$1.class
+tests\MailSteps.class
+tests\RunTest.class
