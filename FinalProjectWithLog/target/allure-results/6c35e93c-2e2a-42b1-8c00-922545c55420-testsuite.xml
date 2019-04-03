@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554332293273" stop="1554332294006" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Checking delete message</name>
+    <test-cases>
+        <test-case start="1554332293476" stop="1554332293476" status="passed">
+            <name>When I post message</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332293476" stop="1554332293476" status="passed">
+            <name>When I post message</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332293538" stop="1554332293538" status="passed">
+            <name>And I delete post</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332293678" stop="1554332293678" status="passed">
+            <name>Then I see post is deleted</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

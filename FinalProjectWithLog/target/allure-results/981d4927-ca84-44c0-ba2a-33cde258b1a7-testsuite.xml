@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554332282956" stop="1554332294037" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Checking presence of icons</name>
+    <test-cases>
+        <test-case start="1554332290529" stop="1554332290529" status="passed">
+            <name>Given I am on home mail.ru page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332290529" stop="1554332290529" status="passed">
+            <name>Given I am on home mail.ru page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332291061" stop="1554332291061" status="passed">
+            <name>Then I see that field with icons is displayed</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

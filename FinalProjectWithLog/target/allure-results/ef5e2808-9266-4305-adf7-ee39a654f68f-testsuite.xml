@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554332141317" stop="1554332293944" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Checking basket cleansing</name>
+    <test-cases>
+        <test-case start="1554332149069" stop="1554332149070" status="passed">
+            <name>Given I am on home mail.ru page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332149069" stop="1554332149070" status="passed">
+            <name>Given I am on home mail.ru page</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332155310" stop="1554332155310" status="passed">
+            <name>When I login with correct data</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332167866" stop="1554332167866" status="passed">
+            <name>And I delete message</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332168329" stop="1554332168329" status="passed">
+            <name>Then I see that message is deleted</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1554332291713" stop="1554332294084" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Scenario: Checking post message</name>
+    <test-cases>
+        <test-case start="1554332292633" stop="1554332292633" status="passed">
+            <name>When I post message</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332292633" stop="1554332292633" status="passed">
+            <name>When I post message</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1554332292696" stop="1554332292696" status="passed">
+            <name>Then I see message is posted</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Asus"/>
+                <label name="thread" value="3504@Asus.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
